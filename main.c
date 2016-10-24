@@ -3,7 +3,7 @@
 int main()
 {
   printf("Open Source SW Project\n");
-  printf("멍청이");
+  printf("2013244113 임재균");
   pritnf("First GitHub Tranning\n);
   return 0;
 }
